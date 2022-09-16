@@ -1,0 +1,34 @@
+.main{
+  width: 400px;
+  margin: 0px auto;
+
+  justify-content: center;
+}
+
+.title>h2{
+  margin: 50px 0 0 0 ;
+  font-size: 7rem;
+} 
+h4{
+  margin: 0 0 0 auto;
+  text-align: right;
+}
+.main>span {
+  margin: 0 0 0 auto;
+  display: flex;
+  justify-content: flex-end;
+}
+.btns{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+}
+.btns > a:first-child{
+  margin: 0 20px 0 0;
+}
+.explore{
+  align-self: center;
+  margin: 0 auto;
+  display: block;
+}
